@@ -228,7 +228,7 @@ dialogs:
         desc: Ich empfehle <strong>dringend</strong>, das normale Spiel bis Level 12 zu spielen,
            bevor du das Puzzle-DLC versuchst. Du läufst sonst Mechaniken über den Weg, die du noch nicht kennst. Möchtest du trotzdem fortfahren?
     puzzleShare:
-        title: 
+        title: Kurzcode kopiert
         desc: Der Kurz-Code des Puzzles (<key>) wurde in die Zwischenablage kopiert! Er
             kann im Puzzlemenü eingegeben werden, um das Puzzle zu erreichen.
     puzzleReport:
